@@ -1,0 +1,2 @@
+Write a bubble sort that counts the number of comparisons and the number of exchanges made while sorting a list and
+returns a tuple of the two values (comparisons first, exchanges second). Do the same for insertion sort.
